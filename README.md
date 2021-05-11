@@ -1,1 +1,2 @@
-# carnatic_detector
+# proj1
+notes
